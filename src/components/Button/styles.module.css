@@ -1,0 +1,19 @@
+.root {
+  border-radius: 4px;
+  cursor: pointer;
+  color: #CC6D3D;
+  background-color: white;
+  border: 1px solid #CC6D3D;
+  font-family: inherit;
+  height: 22px;
+}
+
+.root:hover:enabled {
+  background-color: #cc6d3d2e;
+}
+
+.root:disabled {
+  color: #a3b4c86b;
+  border: 1px solid #a3b4c86b;
+  cursor: default;
+}

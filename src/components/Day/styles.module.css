@@ -1,0 +1,14 @@
+.root {
+  cursor: pointer;
+}
+
+.root:hover {
+  background-color: #cc6d3d2e;;
+}
+
+.events {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+

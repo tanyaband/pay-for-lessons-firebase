@@ -1,0 +1,11 @@
+.actions {
+  text-align: center;
+}
+
+.active-icon {
+  cursor: pointer;
+}
+
+.active-icon:hover {
+  color:#CC6D3D;
+}

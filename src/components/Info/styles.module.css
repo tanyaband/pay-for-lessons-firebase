@@ -1,0 +1,13 @@
+.root {
+  background-color: #fff;
+  border: 1px solid #CC6D3D;
+  border-left: 4px dotted #CC6D3D;
+  padding: 0 15px 10px;
+  flex-grow: 1;
+}
+
+.title {
+  text-align: center;
+  font-weight: bold;
+  /* font-size: 16px; */
+}
